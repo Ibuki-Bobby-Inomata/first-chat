@@ -1,3 +1,4 @@
+// layput
 import Header from '../components/header'
 import './globals.css'
 
