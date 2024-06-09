@@ -1,6 +1,6 @@
 // layput
-import Header from "@/components/header"
-import "./globals.css"
+import Header from "@/components/header";
+import "./globals.css";
 
 const defaultUrl = process.env.VERCEL_URL
   ? `https://${process.env.VERCEL_URL}`
